@@ -1,2 +1,2 @@
-# toploc_conv_search
-This is the official repo of
+# Code Repository for Efficient Conversational Search via Topical Locality in Dense Retrieval 
+
